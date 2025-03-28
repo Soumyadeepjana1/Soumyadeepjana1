@@ -27,3 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadeepjana1&show_icons=true&theme=gruvbox&locale=en" alt="soumyadeepjana1" /></p>
 
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Soumyadeepjana1&theme=gruvbox&hide_border=false" alt="soumyadeepjana1" /></p>
+
+### ✍️ Random Dev Quote
+<p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="dev-quote" /></p>
+
+### 🔝 Top Contributed Repo
+<p><img src="https://github-contributor-stats.vercel.app/api?username=Soumyadeepjana1&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="top-contributed-repo" /></p>

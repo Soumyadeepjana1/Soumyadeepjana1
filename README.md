@@ -66,7 +66,7 @@ contact:       soumyadeepjana368@gmail.com
 ╔══════════════════════════════════════════════════════════╗
 ║  SKILL              LEVEL   PROGRESS                      ║
 ╠══════════════════════════════════════════════════════════╣
-```.
+```
 | | | |
 |:--|:--:|:--|
 | 🐍 `PYTHON` | `85%` | ![](https://progress-bar.xyz/85/?title=&width=280&color=39ff14&scale=100&suffix=%20) |

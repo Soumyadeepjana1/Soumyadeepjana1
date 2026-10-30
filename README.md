@@ -1,7 +1,4 @@
-<div align="center">
-Soumyadeep Jana 🦖
-🛠️ Skills
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,python,git,github,bash,prometheus,grafana&perline=6&theme=dark"/>
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,python,git,github,bash,prometheus,grafana&perline=6&theme=dark"/>
 
 <br/><br/>
 
